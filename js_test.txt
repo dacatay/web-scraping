@@ -1,0 +1,5 @@
+<script>
+    
+    document.getElementByID('yesno').innerHTML = 'This is the dynamically updated text we want!';
+  
+</script>
